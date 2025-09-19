@@ -1,0 +1,45 @@
+.nombre{
+    color: red;
+    text-align: center;
+    font-size: 100px;
+}
+
+.contenedor {
+  display: flex;
+  align-items: center;
+  margin-left: 170px;
+}
+
+.contenedor h2 {
+  margin: 100px ;
+  background: #f0f0f0;    
+  border: 2px solid #ccc; 
+  padding: 16px 24px;     
+  border-radius: 8px;    
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08); 
+  width: 400px;
+  height: auto;
+  margin-left: 150px;
+   
+}
+.fondo {
+  width: 1950px;      
+  height: 300px;    
+  object-fit: cover; 
+  border: none;     
+  margin: 0;      
+  padding: 0;
+  display: block;   
+  position: fixed;   
+  top: 0;
+  left: 0;
+  z-index: -1;       
+
+}
+
+.Fernandez {
+    margin: 100px;
+  width: 400px;      
+    
+
+}
